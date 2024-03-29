@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @FunnyStepBK
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML $ CSS
+- 🌱 I’m currently learning HTML, CSS & JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: A pronoun is a word that stands in for a noun, often to avoid the need to repeat the same noun over and over.
-- ⚡ Fun fact: i am a Chinchilla
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 FunnyStepBK/FunnyStepBK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
