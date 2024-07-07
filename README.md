@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FunnyStepBK
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 🌱 I’m currently learning HTML, CSS & JavaScript with a little bit of C and Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: 
+- 😄 Pronouns: He
 - ⚡ Fun fact:
 - 📅 Age: 14
 
