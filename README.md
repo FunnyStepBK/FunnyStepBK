@@ -2,9 +2,9 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML, CSS & JavaScript with a little bit of C and Rust
 - 💞️ I’m looking to collaborate on Full stack applications & rust/c projects
-- 📫 You can reach out to me through Discord - funnystep_bk
+- 📫 You can reach out to me through Discord - @funnystep_bk
 - 😄 Pronouns: He
-- ⚡ Fun fact:
+- ⚡ Fun fact: i am a polar bear
 - 📅 Age: 14
 
 <!---
