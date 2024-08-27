@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Full stack applications & rust/c projects
 - 📫 You can reach out to me through Discord - @funnystep_bk
 - 😄 Pronouns: He
-- ⚡ Fun fact: i am a polar bear
+- ⚡ Fun fact: I am a polar bear
 - 📅 Age: 14
 
 <!---
